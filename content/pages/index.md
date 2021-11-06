@@ -14,7 +14,7 @@ sections:
         url: /empresas
         style: primary
       - label: Gobierno
-        url: lorem-ipsum
+        url: gobierno
         style: link
         has_icon: false
         icon: arrow-left
