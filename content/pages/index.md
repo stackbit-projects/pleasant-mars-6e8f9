@@ -5,9 +5,10 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Documentamos la historia de las ciudades, las hacemos más inteligentes y
+      creamos espacios con procesos automáticos para mejorar las condiciones de
+      vida en las ciudades latinoamericanas del Siglo XXI
     actions:
       - label: Learn More
         url: /features
