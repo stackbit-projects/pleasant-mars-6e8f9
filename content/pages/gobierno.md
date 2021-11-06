@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Soluciones para gobiernos y partidos políticos
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
