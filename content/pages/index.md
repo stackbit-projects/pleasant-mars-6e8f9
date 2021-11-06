@@ -11,7 +11,7 @@ sections:
       vida en las ciudades latinoamericanas del Siglo XXI
     actions:
       - label: Learn More
-        url: /
+        url: /empresas
         style: primary
     title: ¡Las ciudades están vivas!
   - section_id: features
