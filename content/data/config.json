@@ -121,7 +121,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Privacy Policy",
+                "label": "Aviso de privacidad",
                 "url": "/privacy-policy",
                 "style": "link"
             }
