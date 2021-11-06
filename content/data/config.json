@@ -32,7 +32,8 @@
                 "url": "/signup",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo_img": "/images/LogoBlack300pp.png"
     },
     "footer": {
         "sections": [
