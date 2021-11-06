@@ -12,7 +12,6 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-    title: 'Creamos y documentamos '
   - section_id: features
     type: section_features
     background: gray
