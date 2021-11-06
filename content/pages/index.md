@@ -13,7 +13,7 @@ sections:
       - label: Learn More
         url: /empresas
         style: primary
-      - label: lorem-ipsum
+      - label: 'Empresas '
         url: lorem-ipsum
         style: link
         has_icon: false
