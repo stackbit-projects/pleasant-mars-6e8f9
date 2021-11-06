@@ -13,7 +13,7 @@ sections:
       - label: Learn More
         url: /empresas
         style: primary
-      - label: Gobireno
+      - label: Gobi
         url: lorem-ipsum
         style: link
         has_icon: false
