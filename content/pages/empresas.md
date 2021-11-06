@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Soluciones para empresas y el sector privado
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
